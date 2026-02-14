@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Biological Individuality Taxonomy
 
 Data and Code for:
@@ -134,3 +135,6 @@ ORCID: 0009-0002-5023-5222
 
 _Last updated: 2026-02-14_
 Repository: https://github.com/SamAde1203/BiologicalIndividuality-Taxonomy.git
+=======
+# BiologicalIndividuality-Taxonomy
+>>>>>>> 77025c8e4c332b547f3776bf5fff9a6c3d421622

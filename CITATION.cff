@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Biological Individuality Taxonomy"
+message: "If you use this repository, please cite the associated article."
+authors:
+  - family-names: Adeyemi
+    given-names: Sam
+    orcid: https://orcid.org/0009-0002-5023-5222
+version: 1.0
+date-released: 2026-02-14
+repository-code: https://github.com/SamAde1203/BiologicalIndividuality-Taxonomy
+license: MIT

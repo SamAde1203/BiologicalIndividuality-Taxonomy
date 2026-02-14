@@ -1,0 +1,17 @@
+
+```csv
+Taxon,Common_Name,Clade,Tier,Criterion_I,Criterion_II,Criterion_III,Criterion_IV,IIIa_Bottleneck,IIIb_Germline,IIIc_Development,References
+Escherichia_coli,E. coli,Prokaryote,I,1.0,0.0,0.0,NA,NA,NA,NA,DOI:10.xxxx
+Anabaena,Cyanobacteria,Prokaryote,II,1.0,0.8,0.0,NA,Multicellular,Absent,Mosaic,DOI:10.xxxx
+Chlamydomonas_reinhardtii,Green algae,Protist,I,1.0,0.0,0.0,NA,Unicellular,NA,NA,DOI:10.xxxx
+Volvox_carteri,Volvox,Protist,III,1.0,0.95,0.90,0.85,Unicellular,Early,Regulative,DOI:10.xxxx
+Dictyostelium_discoideum,Slime mold,Protist,II,1.0,0.85,0.60,0.70,Unicellular,Late,Regulative,DOI:10.xxxx
+Saccharomyces_cerevisiae,Yeast,Fungi,I,1.0,0.0,0.0,NA,Unicellular,NA,NA,DOI:10.xxxx
+Neurospora_crassa,Bread mold,Fungi,II,0.7,0.75,0.85,0.80,Oligocellular,Late,Mosaic,DOI:10.xxxx
+Populus_tremuloides,Aspen,Plant,III,0.6,0.85,0.95,0.90,Unicellular,Early,Regulative,DOI:10.xxxx
+Arabidopsis_thaliana,Thale cress,Plant,IV,1.0,0.95,1.0,0.98,Unicellular,Early,Regulative,DOI:10.xxxx
+Porifera_sp,Sponge,Animal,II,0.9,0.80,0.70,0.65,Oligocellular,Absent,Regulative,DOI:10.xxxx
+Hydra_vulgaris,Hydra,Animal,III,1.0,0.90,0.85,0.85,Oligocellular,Late,Regulative,DOI:10.xxxx
+Physalia_physalis,Siphonophore,Animal,IV,1.0,0.98,1.0,1.0,Unicellular,Early,Regulative,DOI:10.xxxx
+Apis_mellifera,Honeybee colony,Animal,II,0.85,0.95,0.40,0.85,Multicellular,NA,NA,DOI:10.xxxx
+Homo_sapiens,Human,Animal,IV,1.0,1.0,1.0,0.98,Unicellular,Early,Regulative,DOI:10.xxxx

@@ -1,0 +1,84 @@
+📜 License
+
+Code: MIT License (see LICENSE)
+Data and case study classifications: CC BY 4.0 (Creative Commons Attribution 4.0 International)
+
+You are free to:
+
+Share and adapt the materials
+
+Use the materials for commercial and non-commercial purposes
+
+Under the condition that appropriate credit is given to the original author and citation to the associated publication is provided.
+
+📦 Repository Contents
+
+scripts/ — R scripts used to generate all figures in the manuscript
+
+figs/ — Output figure files (PDF format)
+
+data/ — Case study classifications and supporting tables (Supplementary Tables S1–S4)
+
+📊 Figures Included
+
+Figure 1A – Multidimensional criteria axes
+
+Figure 1D – PCA projection of individuality space
+
+Figure 2C – Evolutionary regime transitions
+
+Figure 3E – Symbiosis integration track
+
+Figure 4C – Conflict load across tiers
+
+Figure 4D – Germline timing and cancer incidence
+
+All figures are fully reproducible from the scripts in /scripts.
+
+📄 Citation
+
+If you use this repository, please cite:
+
+Adeyemi, S. (2026). What Is a Biological Individual? A Formal Taxonomy Across the Tree of Life. Philosophical Transactions of the Royal Society B.
+
+DOI: [To be inserted upon publication]
+
+Zenodo DOI (repository archive): [To be inserted after release]
+
+🤝 Contributing
+
+Contributions are welcome. To propose updates:
+
+Open an issue describing the suggested correction or addition
+
+Submit a pull request including:
+
+Updated classification table (CSV format)
+
+Supporting references
+
+All taxonomic revisions must be evidence-based and referenced.
+
+📬 Contact
+
+Corresponding Author:
+Sam Adeyemi
+Email: samoadeyemi@yahoo.co.uk
+
+ORCID: 0009-0002-5023-5222
+
+📝 Version History
+
+v1.0 (2026-02-14)
+
+Initial public release
+
+127 case studies
+
+6 core figures
+
+Supplementary Tables S1–S4
+
+📚 Acknowledgements
+
+This repository accompanies the manuscript submitted to Philosophical Transactions of the Royal Society B.

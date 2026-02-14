@@ -1,0 +1,5 @@
+Taxon,Category,Tier_Context1,Tier_Context2,Symbiosis_Score_Transmission,Symbiosis_Score_Fidelity,Symbiosis_Score_Metabolic,Symbiosis_Score_Diversity,Notes
+Lichen_sp,Symbiosis,II,III,0.4,0.7,0.85,0.6,Physiological individual but evolutionary partners
+Buchnera_aphidicola,Endosymbiont,IV,IV,1.0,0.95,1.0,0.8,Vertically transmitted obligate
+Coral_Symbiodiniaceae,Symbiosis,II,III,0.4,0.6,0.80,0.7,Horizontal transmission
+Pando_clone,Clonal plant,III_genet,IV_ramet,NA,NA,NA,NA,Single genetic individual 47000 stems

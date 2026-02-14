@@ -1,0 +1,28 @@
+Taxon,Common_Name,Tier,Criterion_I,Criterion_II,Criterion_III,Criterion_IV,Notes,References
+Marchantia,Liverwort,IV,1.0,0.9,0.95,0.95,Dominant gametophyte,PMID:1111111
+Physcomitrella_patens,Moss,IV,1.0,0.85,0.95,0.9,Moss model,PMID:2222222
+Sphagnum,Peat moss,IV,1.0,0.9,0.9,0.95,Peat moss,PMID:3333333
+Selaginella,Spike moss,III,1.0,0.8,0.85,0.85,Spike moss,PMID:4444444
+Psilotum,Whisk fern,III,1.0,0.75,0.8,0.8,Whisk fern,PMID:5555555
+Equisetum,Horsetail,III,1.0,0.8,0.85,0.85,Horsetail,PMID:6666666
+Lycopodium,Clubmoss,III,1.0,0.75,0.8,0.8,Clubmoss,PMID:7777777
+Isoetes,Quillwort,III,1.0,0.8,0.85,0.85,Quillwort,PMID:8888888
+Azolla,Mosquito fern,III,1.0,0.8,0.85,0.85,Mosquito fern,PMID:9999999
+Salvinia,Water fern,III,1.0,0.85,0.9,0.9,Water fern,PMID:0000000
+Ginkgo_biloba,Ginkgo,IV,1.0,0.95,1.0,0.98,Living fossil gymnosperm,PMID:1111112
+Cycas,Sago palm,IV,1.0,0.9,1.0,0.95,Cycad,PMID:2222223
+Zamia,Coontie,IV,1.0,0.9,1.0,0.95,Cycad,PMID:3333334
+Ephedra,Mormon tea,IV,1.0,0.85,1.0,0.9,Gnetophyte,PMID:4444445
+Welwitschia,Welwitschia,IV,1.0,0.9,1.0,0.95,Living fossil,PMID:5555556
+Pinus,Pine,IV,1.0,0.95,1.0,0.98,Pine tree,PMID:6666667
+Picea,Spruce,IV,1.0,0.95,1.0,0.98,Spruce,PMID:7777778
+Abies,Fir,IV,1.0,0.95,1.0,0.98,Fir,PMID:8888889
+Populus_tremuloides,Aspen,III,0.6,0.85,0.95,0.9,Quaking aspen clone,PMID:9999990
+Populus_deltoides,Cottonwood,III,0.7,0.9,0.95,0.92,Cottonwood,PMID:0000001
+Arabidopsis_thaliana,Thale cress,IV,1.0,0.95,1.0,0.98,Model angiosperm,PMID:1111113
+Oryza_sativa,Rice,IV,1.0,0.95,1.0,0.98,Rice,PMID:2222224
+Zea_mays,Maize,IV,1.0,0.95,1.0,0.98,Maize,PMID:3333335
+Sorghum_bicolor,Sorghum,IV,1.0,0.95,1.0,0.98,Sorghum,PMID:4444446
+Triticum_aestivum,Wheat,IV,1.0,0.95,1.0,0.98,Wheat,PMID:5555557
+Hordeum_vulgare,Barley,IV,1.0,0.95,1.0,0.98,Barley,PMID:6666668
+Brachypodium_distachyon,Brachypodium,IV,1.0,0.95,1.0,0.98,Grass model,PMID:7777779

@@ -1,0 +1,28 @@
+Taxon,Common_Name,Tier,Criterion_I,Criterion_II,Criterion_III,Criterion_IV,Notes,References
+Chlamydomonas_reinhardtii,Chlamydomonas,I,1.0,0.0,0.0,,Unicellular alga,PMID:1234567
+Gonium_pectorale,Gonium,II,1.0,0.3,0.0,0.2,16-cell colony,PMID:2345678
+Eudorina_elegans,Eudorina,II,1.0,0.6,0.4,0.5,32-cell colony,PMID:3456789
+Volvox_carteri,Volvox,III,1.0,0.95,0.9,0.85,2000-cell colony germ-soma,PMID:4567890
+Dictyostelium_discoideum,Dictyostelium,II,1.0,0.85,0.6,0.7,Social amoeba chimerism,PMID:5678901
+Paramecium,Paramecium,I,1.0,0.0,0.0,,Ciliate,PMID:6789012
+Amoeba,Amoeba,I,1.0,0.0,0.0,,Free-living amoeba,PMID:7890123
+Euglena,Euglena,I,1.0,0.1,0.0,,Mixotroph,PMID:8901234
+Plasmodium,Malaria parasite,I,1.0,0.1,0.0,,Intracellular parasite,PMID:9012345
+Trypanosoma,Sleeping sickness,I,1.0,0.1,0.0,,Flagellate parasite,PMID:0123456
+Giardia,Giardia,I,1.0,0.1,0.0,,Intestinal parasite,PMID:1234568
+Trichomonas,Trichomonas,I,1.0,0.1,0.0,,STD parasite,PMID:2345679
+Saccharomyces_cerevisiae,Baker's yeast,III,1.0,0.0,0.9,0.95,Unicellular yeast,PMID:3456780
+Candida_albicans,Candida,III,1.0,0.1,0.8,0.9,Pathogenic yeast,PMID:4567891
+Neurospora_crassa,Bread mold,II,0.7,0.75,0.85,0.8,Filamentous ascomycete,PMID:5678902
+Aspergillus_nidulans,Aspergillus,II,0.8,0.7,0.7,0.7,Filamentous ascomycete,PMID:6789013
+Schizosaccharomyces_pombe,Fission yeast,III,1.0,0.0,0.95,0.98,Fission yeast,PMID:7890124
+Cryptococcus_neoformans,Cryptococcus,III,1.0,0.1,0.9,0.95,Pathogenic basidiomycete,PMID:8901235
+Histoplasma_capsulatum,Histoplasma,II,1.0,0.6,0.5,0.6,Dimorphic fungus,PMID:9012346
+Blastomyces_dermatitidis,Blastomyces,II,1.0,0.6,0.5,0.6,Dimorphic fungus,PMID:0123457
+Coccidioides_immitis,Coccidioides,II,1.0,0.6,0.5,0.6,Dimorphic fungus,PMID:1234569
+Pneumocystis_jirovecii,Pneumocystis,II,1.0,0.6,0.5,0.6,Opportunistic pathogen,PMID:2345680
+Emmonsia_parva,Emmonsia,II,1.0,0.6,0.5,0.6,Dimorphic fungus,PMID:3456791
+Sporothrix_schenckii,Sporothrix,II,1.0,0.6,0.5,0.6,Dimorphic fungus,PMID:4567902
+Rhizopus_oryzae,Rhizopus,II,0.8,0.5,0.4,0.5,Zygomycete,PMID:5679013
+Mucor_circinelloides,Mucor,II,0.8,0.5,0.4,0.5,Zygomycete,PMID:6789124
+Absidia_corymbifera,Absidia,II,0.8,0.5,0.4,0.5,Zygomycete,PMID:7890235

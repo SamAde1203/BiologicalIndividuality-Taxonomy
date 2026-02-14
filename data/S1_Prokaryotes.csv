@@ -1,0 +1,33 @@
+Taxon,Common_Name,Tier,Criterion_I,Criterion_II,Criterion_III,Criterion_IV,Notes,References
+Escherichia_coli,E. coli,I,1.0,0.0,0.0,,Free-living unicell,PMID:1234567
+Bacillus_subtilis,B. subtilis,I,1.0,0.1,0.0,,Free-living unicell,PMID:2345678
+Streptomyces_coelicolor,Streptomycete,II,1.0,0.75,0.0,0.5,Filamentous differentiation,PMID:3456789
+Anabaena,Anabaena,II,1.0,0.8,0.0,0.6,Heterocyst differentiation,PMID:4567890
+Nostoc,Nostoc,II,1.0,0.75,0.0,0.5,Heterocyst differentiation,PMID:5678901
+Cyanothece,Cyanothece,I,1.0,0.2,0.0,,Unicellular cyanobacterium,PMID:6789012
+Synechococcus,Synechococcus,I,1.0,0.1,0.0,,Unicellular cyanobacterium,PMID:7890123
+Prochlorococcus,Prochlorococcus,I,1.0,0.05,0.0,,Smallest photosynthetic cell,PMID:8901234
+Magnetospirillum,Magnetotactic,I,1.0,0.3,0.0,,Magnetosome chain,PMID:9012345
+Desulfovibrio,Desulfovibrio,I,1.0,0.2,0.0,,Sulfate reducer,PMID:0123456
+Methanococcus,Methanococcus,I,1.0,0.1,0.0,,Methanogen,PMID:1234568
+Thermococcus,Thermococcus,I,1.0,0.1,0.0,,Hyperthermophile,PMID:2345679
+Halobacterium,Halobacterium,I,1.0,0.2,0.0,,Haloarchaeon,PMID:3456780
+Archaea_sp,Generic Archaea,I,1.0,0.1,0.0,,Typical archaea,PMID:4567891
+Biofilm_Bacteria,Biofilm,0,0.3,0.4,0.0,0.2,No discrete boundaries,PMID:5678902
+Viral_quasispecies,Viral quasispecies,0,0.1,0.2,0.0,0.1,No spatial boundaries,PMID:6789013
+Mycoplasma,Mycoplasma,I,1.0,0.0,0.0,,Minimal cell,PMID:7890124
+Chlamydia,Chlamydia,I,1.0,0.1,0.0,,Intracellular parasite,PMID:8901235
+Rickettsia,Rickettsia,I,1.0,0.2,0.0,,Intracellular parasite,PMID:9012346
+Treponema,Treponema,I,1.0,0.1,0.0,,Spirochete,PMID:0123457
+Borrelia,Borrelia,I,1.0,0.1,0.0,,Spirochete,PMID:1234569
+Helicobacter,Helicobacter,I,1.0,0.2,0.0,,Gastric pathogen,PMID:2345680
+Campylobacter,Campylobacter,I,1.0,0.1,0.0,,Intestinal pathogen,PMID:3456791
+Vibrio_cholerae,V. cholerae,I,1.0,0.1,0.0,,Cholera pathogen,PMID:4567902
+Salmonella,Salmonella,I,1.0,0.1,0.0,,Enteric pathogen,PMID:5679013
+Shigella,Shigella,I,1.0,0.1,0.0,,Enteric pathogen,PMID:6789124
+Yersinia,Yersinia,I,1.0,0.1,0.0,,Plague pathogen,PMID:7890235
+Pseudomonas_aeruginosa,P. aeruginosa,I,1.0,0.2,0.0,,Opportunistic pathogen,PMID:8901346
+Burkholderia,Burkholderia,I,1.0,0.1,0.0,,Opportunistic pathogen,PMID:9012457
+Acinetobacter,Acinetobacter,I,1.0,0.1,0.0,,Hospital pathogen,PMID:0123568
+Enterococcus,Enterococcus,I,1.0,0.1,0.0,,Gram-positive coccus,PMID:1234679
+Staphylococcus,Staphylococcus,I,1.0,0.2,0.0,,Gram-positive coccus,PMID:2345790

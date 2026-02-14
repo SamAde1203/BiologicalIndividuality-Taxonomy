@@ -1,0 +1,42 @@
+Taxon,Common_Name,Tier,Criterion_I,Criterion_II,Criterion_III,Criterion_IV,Notes,References
+Porifera_sp,Sponge,II,0.9,0.8,0.7,0.65,Basal metazoan,PMID:1000001
+Spongilla_lacustris,Freshwater sponge,II,0.9,0.8,0.7,0.65,Freshwater sponge,PMID:1001002
+Sycon,Sycon sponge,II,0.95,0.85,0.75,0.7,Calcareous sponge,PMID:1002003
+Grantia,Grantia sponge,II,0.95,0.85,0.75,0.7,Calcareous sponge,PMID:1003004
+Leucosolenia,Leucosolenia,III,1.0,0.9,0.85,0.85,Leucosoleniid sponge,PMID:1004005
+Hydra_vulgaris,Hydra,III,1.0,0.9,0.85,0.85,Cnidarian polyp,PMID:1005006
+Nematostella_vectensis,Sea anemone,III,1.0,0.9,0.85,0.85,Starlet sea anemone,PMID:1006007
+Physalia_physalis,Portuguese man o war,IV,1.0,0.98,1.0,1.0,Siphonophore colony,PMID:1007008
+Nanomia_bijuga,Siphonophore,IV,1.0,0.98,1.0,1.0,Siphonophore colony,PMID:1008009
+Hydractinia,Hydractinia,III,1.0,0.9,0.8,0.8,Hydroid colony,PMID:1009010
+Obelia,Obelia,III,1.0,0.9,0.8,0.8,Hydroid colony,PMID:1010011
+Velella,By-the-wind sailor,III,1.0,0.9,0.8,0.8,Hydrozoan colony,PMID:1011012
+Porpita,Porpita,III,1.0,0.9,0.8,0.8,Hydrozoan colony,PMID:1012013
+Millipora,Fire coral,III,1.0,0.9,0.8,0.8,Hydrocoral,PMID:1013014
+Acropora,Staghorn coral,III,0.9,0.85,0.8,0.8,Staghorn coral colony,PMID:1014015
+Montastraea,Boulder star coral,III,0.95,0.9,0.85,0.85,Boulder coral,PMID:1015016
+Pocillopora,Branching coral,III,0.95,0.9,0.85,0.85,Branching coral,PMID:1016017
+Stylophora,Cat's paw coral,III,0.95,0.9,0.85,0.85,Cat's paw coral,PMID:1017018
+Seriatopora,Birdsnest coral,III,0.95,0.9,0.85,0.85,Birdsnest coral,PMID:1018019
+Galaxea,Crystal coral,III,0.95,0.9,0.85,0.85,Starburst coral,PMID:1019020
+Fungia,Mushroom coral,III,1.0,0.85,0.8,0.8,Mushroom coral solitary,PMID:1020021
+Choanoflagellate_rosette,Choanoflagellate colony,II,0.8,0.6,0.3,0.4,Choanoflagellate rosette colony,PMID:1021022
+Trichoplax_adhaerens,Trichoplax,II,0.7,0.5,0.2,0.3,Trichoplax placozoan,PMID:1022023
+Mnemiopsis,Comb jelly,II,1.0,0.8,0.6,0.7,Comb jelly,PMID:1023024
+Pleurobrachia,Sea gooseberry,II,1.0,0.8,0.6,0.7,Sea gooseberry,PMID:1024025
+Ctenophora_sp,Comb jelly,II,1.0,0.8,0.6,0.7,Comb jelly,PMID:1025026
+Nemertea_sp,Ribbon worm,III,1.0,0.85,0.85,0.85,Ribbon worm,PMID:1026027
+Enteropneusta,Acorn worm,III,1.0,0.9,0.9,0.9,Acorn worm,PMID:1027028
+Pogonophora,Pogonophoran worm,III,1.0,0.9,0.9,0.9,Pogonophoran tube worm,PMID:1028029
+Echiura,Echiuran worm,III,1.0,0.9,0.9,0.9,Echiuran peanut worm,PMID:1029030
+Sipuncula,Peanut worm,III,1.0,0.9,0.9,0.9,Sipunculan peanut worm,PMID:1030031
+Annelida_sp,Annelid worm,III,1.0,0.9,0.9,0.9,Annelid polychaete,PMID:1031032
+Mollusca_sp,Mollusc,IV,1.0,0.95,0.95,0.98,Mollusc representative,PMID:1032033
+Echinodermata_sp,Echinoderm,IV,1.0,0.95,0.95,0.98,Echinoderm representative,PMID:1033034
+Hemichordata_sp,Hemichordate,IV,1.0,0.95,0.95,0.98,Hemichordate acorn worm,PMID:1034035
+Cephalochordata_sp,Lancelet,IV,1.0,0.95,0.95,0.98,Lancelet amphioxus,PMID:1035036
+Tunicata_sp,Tunicate,IV,1.0,0.98,1.0,1.0,Tunicate sea squirt,PMID:1036037
+Cyclostomata,Lamprey,IV,1.0,0.98,1.0,1.0,Lamprey jawless fish,PMID:1037038
+Chondrichthyes,Shark,IV,1.0,0.98,1.0,1.0,Shark cartilaginous fish,PMID:1038039
+Osteichthyes,Bony fish,IV,1.0,0.98,1.0,1.0,Bony fish representative,PMID:1039040
+Amphibia,Frog,IV,1.0,0.98,1.0,1.0,Amphibian representative,PMID:1040041

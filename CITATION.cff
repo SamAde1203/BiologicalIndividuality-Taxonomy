@@ -1,11 +1,14 @@
 cff-version: 1.2.0
 title: "Biological Individuality Taxonomy"
-message: "If you use this repository, please cite the associated article."
+message: "If you use this repository, please cite the associated article and Zenodo archive."
+type: software
 authors:
   - family-names: Adeyemi
     given-names: Sam
     orcid: https://orcid.org/0009-0002-5023-5222
-version: 1.0
+version: 1.0.0
 date-released: 2026-02-14
+doi: 10.5281/zenodo.18644804
 repository-code: https://github.com/SamAde1203/BiologicalIndividuality-Taxonomy
+url: https://doi.org/10.5281/zenodo.18644804
 license: MIT
